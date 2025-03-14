@@ -1,0 +1,20 @@
+git config --global user.name "sukumar"
+
+git config --global user.email "emmanuealpaul@gmail.com"
+
+configuration requires while pushing towards a public repostiory in github from a local repostiory
+
+git status >> used to check the status of .git in the current directory
+
+git init >> to initialize git in the current directory (helps to track the changes in our directory
+ * if we add,delete a file it will track it as a change in the directory)
+
+U >> represents untracked(file is there not yet comminted or not added to the staging area)
+
+A >> files that added to staging area
+
+M >> files being modified after commiting
+
+git add intro.txt :- adding to staging area
+
+git commit -m "my first commit"
