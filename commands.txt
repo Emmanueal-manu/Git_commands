@@ -18,3 +18,17 @@ M >> files being modified after commiting
 git add intro.txt :- adding to staging area
 
 git commit -m "my first commit"
+
+git clone <repository urtl> >> for cloning a repository from github
+
+
+
+creating a new branch in github
+
+git branch <branchname>
+
+git switch <branchname>
+
+
+git branch new branch
+
